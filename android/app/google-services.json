@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246132011158",
+    "project_id": "done-66af5",
+    "storage_bucket": "done-66af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246132011158:android:5e2643e07cfdb739fd12b7",
+        "android_client_info": {
+          "package_name": "com.example.done"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246132011158-dlvhvc5o2tjvrmrmi5te4bv6jv88569k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfnSKGXCI5K1-hqO5uRrI4MdXr2cByxx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246132011158-dlvhvc5o2tjvrmrmi5te4bv6jv88569k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
